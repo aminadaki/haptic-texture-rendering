@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 4_megalo
+  - 4_mikro
+  - 4_sandpaper
+  - 5_megalo
+  - 5_mikro
+  - 5_sandpaper
+  - 7_megalo
+  - 7_mikro
+  - 7_sandpaper
+  - 8_megalo
+  - 8_mikro
+  - 8_sandpaper
+  - 14_megalo
+  - 14_mikro
+  - 14_sandpaper
+  - 15_megalo
+  - 15_mikro
+  - 15_sandpaper
+  - 16_megalo
+  - 16_mikro
+  - 16_sandpaper
+  - 20_megalo
+  - 20_mikro
+  - 20_sandpaper
+  - 26_megalo
+  - 26_mikro
+  - 26_sandpaper
+  - 27_megalo
+  - 27_mikro
+  - 27_sandpaper
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PhysicalHands
+  - PhysicalHandsReset
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

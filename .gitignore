@@ -1,0 +1,12 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# OS
+.DS_Store
+Thumbs.db
